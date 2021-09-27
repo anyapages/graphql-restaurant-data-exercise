@@ -53,7 +53,6 @@ query getrestaurants {
 
 ## Installation
 
-- Run `npm install` to install node modules.
 - Run the index.js file on `http://localhost:5500/graphql` in order to make queries with GraphQL.
 
 ## Usage
