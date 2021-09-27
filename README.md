@@ -9,11 +9,11 @@ API (GraphQL) queries and CRUD implementaion solution.
 
 ## List of GraphQL queries used:
 
-- restaurant: This gets a single restaurant based on a provided ID. 
-- restaurants: This gets a list of all restaurants. 
-- setrestaurant: This creates a new restaurant. 
-- deleterestaurant: This deletes a restaurant based on the provided ID.
-- editrestaurant: This updates a restaurant based on the provided ID.
+- restaurant: Gets a single restaurant based on a provided ID. 
+- restaurants: Gets a list of all restaurants. 
+- setrestaurant: Creates a new restaurant. 
+- deleterestaurant: Deletes a restaurant based on the provided ID.
+- editrestaurant: Updates a restaurant based on the provided ID.
 
 ```javaScript
 mutation editrestaurants($idd: Int = 1, $name: String = "OLDO") {
