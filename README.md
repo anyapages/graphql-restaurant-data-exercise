@@ -1,6 +1,6 @@
 # GraphQL Restaurant Data Exercise 🍽
 
-An APIs (GraphQL) queries and CRUD implementaion solution.
+API (GraphQL) queries and CRUD implementaion solution.
 
 ## Tasks:
 
