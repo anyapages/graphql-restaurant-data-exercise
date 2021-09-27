@@ -1,6 +1,6 @@
 # GraphQL Restaurant Data Exercise 🍽
 
-Implement CRUD, using GraphQL to fetch APIs.
+An APIs (GraphQL) queries and CRUD implementaion solution.
 
 ## Tasks:
 
@@ -53,12 +53,12 @@ query getrestaurants {
 
 ## Installation
 
-`npm install`
-Run the index.js on `http://localhost:5500/graphql` in order to make queries with GraphQL.
+- Run `npm install` to install node modules.
+- Run the index.js file on `http://localhost:5500/graphql` in order to make queries with GraphQL.
 
 ## Usage
 
-<img src = '#' width="500" height="440"> 
+<img src = 'https://raw.githubusercontent.com/anyapages/graphql-restaurant-data-exercise/main/image.png?token=ATDMTEB7ZUUGO34UBGIMEGTBLLXHK' width="550" height="440"> 
 
 ## Learn More
 
