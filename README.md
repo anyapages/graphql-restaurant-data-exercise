@@ -53,12 +53,12 @@ query getrestaurants {
 
 ## Installation
 
-`npm install`
-Run the index.js on `http://localhost:5500/graphql` in order to make queries with GraphQL.
+- `npm install`
+- Run the index.js on `http://localhost:5500/graphql` in order to make queries with GraphQL.
 
 ## Usage
 
-<img src = '#' width="500" height="440"> 
+<img src = 'https://raw.githubusercontent.com/anyapages/graphql-restaurant-data-exercise/main/image.png?token=ATDMTEB7ZUUGO34UBGIMEGTBLLXHK' width="550" height="440"> 
 
 ## Learn More
 
