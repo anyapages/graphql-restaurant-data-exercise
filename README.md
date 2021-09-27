@@ -12,8 +12,8 @@ API (GraphQL) queries and CRUD implementaion solution.
 - restaurant: This gets a single restaurant based on a provided ID. 
 - restaurants: This gets a list of all restaurants. 
 - setrestaurant: This creates a new restaurant. 
-- deleterestaurant: This deletes a restaurant based on the provided id.
-- editrestaurant: This updates a restaurant based on the provided id.
+- deleterestaurant: This deletes a restaurant based on the provided ID.
+- editrestaurant: This updates a restaurant based on the provided ID.
 
 ```javaScript
 mutation editrestaurants($idd: Int = 1, $name: String = "OLDO") {
