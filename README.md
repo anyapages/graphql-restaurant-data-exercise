@@ -1,6 +1,6 @@
 # GraphQL Restaurant Data Exercise 🍽
 
-API (GraphQL) queries and CRUD implementaion solution.
+Sample API (GraphQL) queries and [CRUD](https://rapidapi.com/blog/api-glossary/crud/) implementaion solution.
 
 ## Tasks:
 
